@@ -25,6 +25,8 @@ client.on('message', message =>{
         message.channel.send('https://discord.gg/ABBJkp9');
     } else if (command == 'Youtube'){
         message.channel.send('https://www.youtube.com/channel/UCOTAJILcQNU6WzR-y4bxxgA');
+    } else if (command == 'gif'){
+        message.channel.send('https://bungeefield.uk/gif/');
     }
 });
 
