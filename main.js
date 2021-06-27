@@ -3,7 +3,7 @@ const client = new Discord.Client();
 
 const prefix = '.';
 
-client.once('ready', () =>{
+client.once('online', () =>{
 	console.log('SteefieSteefBot is online!');
     client.user.setActivity("MX Bikes");
 });
