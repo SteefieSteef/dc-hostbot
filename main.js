@@ -27,6 +27,8 @@ client.on('message', message =>{
         message.channel.send('https://www.youtube.com/channel/UCOTAJILcQNU6WzR-y4bxxgA');
     } else if (command == 'gif'){
         message.channel.send('gif');
+    } else if (command == 'steef'){
+        message.channel.send('ja?');
     }
 });
 
