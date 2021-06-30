@@ -1,2 +1,2 @@
 # dc-hostbot
-dc bot host
+SteefieSteef Discord Bot
